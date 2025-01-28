@@ -83,3 +83,7 @@ console.log(weekDays);
 // Error:  the constant is always the same.
 // weekDays=5;
 // console.log(weekDays);
+
+function test(){
+    document.getElementById("total").innerHTML="Something";
+}
